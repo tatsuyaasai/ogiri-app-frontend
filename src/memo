@@ -1,0 +1,38 @@
+// const[keyword, setKeyword] = useState("");
+    // const keys = {1: keyword};
+
+    // useEffect(() => {
+    //         console.log("fetch")
+    //         fetch('/request', {
+    //           method: 'POST', // or 'PUT'
+    //           headers: {
+    //             'Content-Type': 'application/json',
+    //           },
+    //           body: JSON.stringify({keys}),
+    //         })
+    //           .then((response) => response.json())
+    //           .then((keys) => {
+    //             console.log('成功:', keys);
+    //           })
+    //           .catch((error) => {
+    //             console.error('Error:', error);
+    //           });
+    //     },[keyword])
+    // const handleSend = (e:any) =>{
+    //     e.preventDefault();
+    //     setKeyword(e.target[0].value);
+    // }
+
+
+
+
+            {/*<form onSubmit={handleSend}>*/}
+            {/*    <span>キーワード</span>*/}
+
+            {/*    <button>お題を投稿</button>*/}
+
+            {/*</form>*/}
+            {/*<div>*/}
+            {/*    <span>検索結果</span><span> 検索キーワード：{keyword}</span>*/}
+            {/*        <TitleList />*/}
+            {/*</div>*/}
